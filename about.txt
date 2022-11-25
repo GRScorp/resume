@@ -1,0 +1,16 @@
+me:
+My name is Serhii.
+I was born in 81 year.
+I grew up like all Soviet children.
+My family did not have a computer, but one day my parents bought an MK-61 calculator.
+And from that day on, a love for programming was born.
+For many years I worked at a job that was not my favorite.
+And now i want work in IT.
+
+hobby:
+I like device development.
+I like programming on python, assembler for AVR MCU etc.
+I like to learn something new and understand new processes.
+
+why select QA Engineer:
+I want to progress in IT direction. It is my entry point.
